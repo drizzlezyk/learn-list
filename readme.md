@@ -1,10 +1,10 @@
 ## diffusion-series
 
-DDPM
-CLIP
-GLIDE
-Diffusion-LM
+- DDPM
+- CLIP
+- GLIDE
+- Diffusion-LM
 
 
 ## self-supervise
-deta2vec
+- deta2vec
